@@ -1,3 +1,5 @@
+
+// this is the js portion
 window.addEventListener('load',init);
 // for levels
 const levels = {
